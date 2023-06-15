@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ronald Brownstein",
+            "title": "How one DeSantis speech captured the dynamic that could decide 2024 | CNN Politics",
+            "description": "When Florida Gov. Ron DeSantis delivered his initial speech as a declared presidential candidate in Iowa last week, his first 15 minutes succinctly previewed how Republicans might defeat President Joe Biden next year.",
+            "url": "https://www.cnn.com/2023/06/06/politics/desantis-2024-republicans-fault-lines/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605162320-ron-desantis-iowa-0530.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-06T04:19:52Z",
+            "content": "When Florida Gov. Ron DeSantis delivered his initial speech as a declared presidential candidate in Iowa last week, his first 15 minutes succinctly previewed how Republicans might defeat President Jo… [+15098 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kristin Wilson",
+            "title": "Rep. George Santos' lawyer asks to keep bond cosigners' names sealed | CNN Politics",
+            "description": "Indicted Rep. George Santos’ attorney has filed a letter asking the judge overseeing the New York Republican’s case to keep the names of the people who put up his $500,000 bond sealed.",
+            "url": "https://www.cnn.com/2023/06/05/politics/santos-bond-cosigners-names-sealed/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605211649-santos-bond-cosigners-names-sealed-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-06T01:31:24Z",
+            "content": "Indicted Rep. George Santos attorney has filed a letter asking the judge overseeing the New York Republicans case to keep the names of the people who put up his $500,000 bond sealed.\r\nAttorney Joseph… [+2539 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Health officer, coroner condemn 'polarizing' rhetoric over B.C.'s safe drug supply | CBC News",
+            "description": "The province launched a prescribed safe supply program in March 2020, and Dr. Bonnie Henry says a program review now underway will be based on data, not divisive politics.",
+            "url": "http://www.cbc.ca/news/canada/british-columbia/illicit-drug-crisis-rhetoric-1.6866198",
+            "urlToImage": "https://i.cbc.ca/1.6731833.1686011821!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/2022-bc-drug-deaths.jpg",
+            "publishedAt": "2023-06-06T01:22:17.0052228Z",
+            "content": "British Columbia health leaders will be reviewing the province's safe supply program and say the review will be based on data, not divisive politics.\r\nThe announcement came during a news conference M… [+2801 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Daniel Dale,Morgan Rimmer",
+            "title": "Boebert claims she missed a vote as a 'protest' -- but CNN's camera caught her running up the House steps as it ended | CNN Politics",
+            "description": "On Saturday, Republican Rep. Lauren Boebert of Colorado posted a video on Twitter in which she claimed that she had intentionally skipped Wednesday’s key House vote on a bill to suspend the nation’s debt ceiling.",
+            "url": "https://www.cnn.com/2023/06/05/politics/boebert-debt-vote-protest/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605184720-boebert-house-steps-062023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-05T23:09:42Z",
+            "content": "On Saturday, Republican Rep. Lauren Boebert of Colorado posted a video on Twitter in which she claimed that she had intentionally skipped Wednesdays key House vote on a bill to suspend the nations de… [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Why these Iowa voters are interested in DeSantis | CNN Politics",
+            "description": "As presidential candidates descend on early voting states like Iowa, CNN spoke to Republican voters at a campaign event for Florida Gov. Ron DeSantis about what they are looking for in 2024.",
+            "url": "https://www.cnn.com/videos/politics/2023/06/01/ron-desantis-iowa-voters-ff-aw-contd-orig.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605162427-desantis-florida-voter.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-05T20:26:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Watson",
+            "title": "Convicted spy Robert Hanssen dies in prison | CNN Politics",
+            "description": "Robert Philip Hanssen, who received payments of $1.4 million in cash and diamonds for the information he gave the Soviet Union and Russia, has died, the Federal Bureau of Prisons announced Monday.",
+            "url": "https://www.cnn.com/2023/06/05/politics/robert-hanssen/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605150744-robert-hanssen-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-05T19:32:45Z",
+            "content": "Robert Philip Hanssen, who received payments of $1.4 million in cash and diamonds for the information he gave the Soviet Union and Russia, has died, the Federal Bureau of Prisons announced Monday.\r\nH… [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Special Section: The Unregulated Podcast",
+            "description": "The Unregulated Podcast is hosted by Washington Times columnist, Mike McKenna and Tom Pyle, President of the American Energy Alliance. Each week they dig into the latest in energy, politics, and anything else that is on their minds.",
+            "url": "https://www.washingtontimes.com/specials/unregulated-podcast/",
+            "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/UnregulatedThumbnail.jpg",
+            "publishedAt": "2023-06-05T18:37:26.8901925Z",
+            "content": "The Unregulated Podcast is hosted by Washington Times columnist, Mike McKenna and Tom Pyle, President of the American Energy Alliance. Each week they dig into the latest in energy, politics, and anyt… [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
